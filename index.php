@@ -8,7 +8,7 @@
         <!-- BASICS -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>TUMO WEB</title>
+        <title>TUMU WEB</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />	
@@ -36,7 +36,7 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="fa fa-bars color-white"></span>
                         </button>
-                        <h1><a class="navbar-brand" href="index.php" data-0="line-height:90px;" data-300="line-height:50px;">TUMO 
+                        <h1><a class="navbar-brand" href="index.php" data-0="line-height:90px;" data-300="line-height:50px;">TUMU 
                             </a></h1>
                     </div>
                     <div class="navbar-collapse collapse">
@@ -59,48 +59,16 @@
         <section class="featured">
             <div id="index">
                 <!-- Responsive slider - START -->
-                <div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
+                <div class="responsive-slider"  data-autoplay="true">
                     <div class="slides" data-group="slides">
                         <ul>
                             <li>
                                 <div class="slide-body" data-group="slide">
-                                    <img src="img/8.jpg" alt="">
-                                    <div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="300">
-                                        <h2>We are creative design agency</h2>
-                                        <div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="1200" data-length="300"><h4><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</span></h4></div>
-                                        <div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="800" data-length="300"><h3>With one to one swipe movement!</h3></div>
-                                    </div>
+                                    <img src="img/1.jpg" alt="">                                  
                                 </div>
                             </li>
-                            <li>
-                                <div class="slide-body" data-group="slide">
-                                    <img src="img/2.jpg" alt="">
-                                    <div class="caption header" data-animate="slideAppearDownToUp" data-delay="500" data-length="300">
-                                        <h2>creative design Responsive slider</h2>
-                                        <div class="caption-sub" data-animate="slideAppearUpToDown" data-delay="800" data-length="300"><h4><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </span></h4></div>
-                                        <div class="caption-sub" data-animate="slideAppearRightToLeft" data-delay="1200" data-length="300"><h3>Wonderfull Slides!</h3></div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="slide-body" data-group="slide">
-                                    <img src="img/6.jpg" alt="">
-                                    <div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="300">
-                                        <h2>creative design Custom animations</h2>
-                                        <div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="800" data-length="300"><h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4></div>
-                                        <div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="1200" data-length="300"><h3><span>New style Slides!</span></h3></div>
-
-                                    </div>
-                                </div>
-                            </li>
-
                         </ul>
                     </div>
-
-                    <a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
-                    <a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
-
-
                 </div>
                 <!-- Responsive slider - END -->
             </div>
@@ -114,10 +82,7 @@
                         <div class="col-md-offset-3 col-md-6">
                             <div class="title">
                                 <div class="wow bounceIn">
-
                                     <h2 class="section-heading animated" data-animation="bounceInUp">Sobre nuestra empresa</h2>
-
-
                                 </div>
                             </div>
                         </div>
@@ -187,20 +152,13 @@
                 <div class="row">				
                     <div class="col-lg-12">
                         <div class="align-center">
-                            <div class="testimonial pad-top40 pad-bot40 clearfix">
-                                <h5>
-                                    Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
-                                </h5>
-                                <br/>
-                                <span class="author">&mdash; Jouse Manuel <a href="#">www.jouse-manuel.com</a></span>
+                            <div class="testimonial pad-top40 pad-bot40 clearfix">                              
                             </div>
 
                         </div>
                     </div>
                 </div>
-
             </div>	
-
         </section>
 
         <!-- services -->
@@ -279,14 +237,8 @@
                 <div class="row">				
                     <div class="col-lg-12">
                         <div class="align-center">
-                            <div class="testimonial pad-top40 pad-bot40 clearfix">
-                                <h5>
-                                    Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
-                                </h5>
-                                <br/>
-                                <span class="author">&mdash; Jouse Manuel / www.jouse-manuel.com</span>
+                            <div class="testimonial pad-top40 pad-bot40 clearfix">                             
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -317,7 +269,7 @@
                         <div class="wow bounceIn" data-animation-delay="4.8s">
                             <div class="team-member">
                                 <div class="profile-picture">
-                                    <figure><img src="img/kastora.jpg" alt=""></figure>
+                                    <figure><img src="img/clientes/kastora.png" alt=""></figure>
                                     <div class="profile-overlay"></div>
                                     <div class="profile-social">
                                         <div class="icons-wrapper">
@@ -331,7 +283,7 @@
                                 </div>
                                 <div class="team-detail">
                                     <h4>La Kastora</h4>
-                                    <span>Confecciones Exclusivas</span>
+                                    <span>Botique</span>
                                 </div>
                                 <div class="team-bio">
                                     <p>Ropa exclusiva consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci accusantium minus asperiores.</p>
@@ -344,7 +296,7 @@
                         <div class="wow bounceIn">
                             <div class="team-member">
                                 <div class="profile-picture">
-                                    <figure><img src="img/members1.jpg" alt=""></figure>
+                                    <figure><img src="img/clientes/lab.png" alt=""></figure>
                                     <div class="profile-overlay"></div>
                                     <div class="profile-social">
                                         <div class="icons-wrapper">
@@ -357,11 +309,11 @@
                                     </div>
                                 </div>
                                 <div class="team-detail">
-                                    <h4>Alexander Chernov</h4>
-                                    <span>Web developer</span>
+                                    <h4>Mintlab</h4>
+                                    <span>Laboratorio</span>
                                 </div>
                                 <div class="team-bio">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci accusantium minus asperiores.</p>
+                                    <p>.</p>
                                 </div>
                             </div>
                         </div>
@@ -370,7 +322,7 @@
                         <div class="wow bounceIn">
                             <div class="team-member">
                                 <div class="profile-picture">
-                                    <figure><img src="img/members2.jpg" alt=""></figure>
+                                    <figure><img src="img/clientes/marie.jpg" alt=""></figure>
                                     <div class="profile-overlay"></div>
                                     <div class="profile-social">
                                         <div class="icons-wrapper">
@@ -383,8 +335,8 @@
                                     </div>
                                 </div>
                                 <div class="team-detail">
-                                    <h4>Jose Manuel</h4>
-                                    <span>Web designer</span>
+                                    <h4>Marie Rose</h4>
+                                    <span>Salon de belleza</span>
                                 </div>
                                 <div class="team-bio">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci accusantium minus asperiores.</p>
@@ -404,20 +356,12 @@
                 <div class="row">				
                     <div class="col-lg-12">
                         <div class="align-center">
-                            <div class="testimonial pad-top40 pad-bot40 clearfix">
-                                <h5>
-                                    Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
-                                </h5>
-                                <br/>
-                                <span class="author">&mdash; Jouse Manuel / www.jouse-manuel.com</span>
+                            <div class="testimonial pad-top40 pad-bot40 clearfix">                               
                             </div>
-
                         </div>
                     </div>
                 </div>
-
             </div>	
-
         </section>
 
         <!-- section works -->
@@ -584,9 +528,7 @@
         </section>
         <section id="parallax2" class="section parallax" data-stellar-background-ratio="0.5">	
             <div class="align-center pad-top40 pad-bot30">
-                <h4 class="color-white pad-top50">The middle of that asteroid field</h4>
-                <p class="color-white">We can repair any dings and scrapes to your spacecraft and support,Planning a time travel trip to the middle ages Feugiat accumsan Suspendisse eget Duis faucibus tempus pede pede augue pede.Dapibus mollis
-                    dignissim suscipit porta justo nisl amet Nunc quis semper.</p>
+               
             </div>
         </section>
 
@@ -641,11 +583,7 @@
 
             </div>
         </section>
-        <!-- map -->
-        <section id="section-map" class="clearfix">
-            <div id="map"></div>
-        </section>
-
+ 
         <section id="footer" class="section footer">
             <div class="container">
                 <div class="row animated opacity mar-bot0" data-andown="fadeIn" data-animation="animation">
@@ -661,7 +599,7 @@
                 </div>
 
                 <div class="row align-center copyright">
-                    <div class="col-sm-12"><p>Copyright &copy; TUMO</p></div>
+                    <div class="col-sm-12"><p>Copyright &copy; TUMU</p></div>
                 </div>
             </div>
 
@@ -686,33 +624,7 @@
         <script src="js/validate.js"></script>
         <script src="js/grid.js"></script>
         <script src="js/main.js"></script>
-        <script type="text/javascript">
-            
-            // When the window has finished loading create our google map below
-            google.maps.event.addDomListener(window, 'load', init);
-
-            function init() {
-                // Basic options for a simple Google Map
-                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-                var mapOptions = {
-                    // How zoomed in you want the map to start at (always required)
-                    zoom: 11,
-                    // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(40.6700, -73.9400), // New York
-
-                    // How you would like to style the map. 
-                    // This is where you would paste any style found on Snazzy Maps.
-                    styles: [{featureType: "all", elementType: "all", stylers: [{invert_lightness: true}, {saturation: 10}, {lightness: 30}, {gamma: 0.5}, {hue: "#1C705B"}]}]
-                };
-
-                // Get the HTML DOM element that will contain your map 
-                // We are using a div with id="map" seen below in the <body>
-                var mapElement = document.getElementById('map');
-
-                // Create the Google Map using out element and options defined above
-                var map = new google.maps.Map(mapElement, mapOptions);
-            }
-        </script>
+       
         <script src="js/wow.min.js"></script>
         <script>
            wow = new WOW(

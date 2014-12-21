@@ -6,7 +6,7 @@
   #
   # Author: Lukasz Kokoszkiewicz
   #
-  # Copyright Â© w3widgets 2013 All Rights Reserved
+  # Copyright © w3widgets 2013 All Rights Reserved
 */
 
 

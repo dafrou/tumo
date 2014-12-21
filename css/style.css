@@ -362,7 +362,7 @@ i.service-icon:hover {
   color: #417630;
 }
 
-
+}
 .service-col p {
   font-size: 0.875em;
   font-weight: 200;
@@ -457,24 +457,24 @@ padding-top: 30px;
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/4.jpg);
-	height:500px;
+	background-image: url(../img/2.jpg);
+	height:200px;
 }
 #parallax2{	
-	background-image: url(../img/parallax/2.jpg);
-	height:500px;
+	background-image: url(../img/2.jpg);
+	height:200px;
 }
 #testimonials{	
-	background-image: url(../img/1.jpg);
-	height:500px;
+	background-image: url(../img/2.jpg);
+	height:200px;
 }
 #testimonials-3{	
-	background-image: url(../img/12.jpg);
-	height:500px;
+	background-image: url(../img/2.jpg);
+	height:200px;
 }
 #testimonials-2{	
-	background-image: url(../img/6.jpg);
-	height:500px;
+	background-image: url(../img/2.jpg);
+	height:200px;
 }
 
 /*===========================
