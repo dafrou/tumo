@@ -89,7 +89,7 @@
                     </div>
                     <div class="row">
 
-                        <div class="row-slider">
+<!--                        <div class="row-slider">
                             <div class="col-lg-6 mar-bot30">
                                 <div class="responsive-slider" data-autoplay="true">
                                     <div class="slides" data-group="slides">
@@ -100,9 +100,9 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
 
-                            <div class="col-lg-6 ">
+                            <div class="col-lg-12 ">
                                 <div class="company mar-left10">
                                     <h4>TUMU NACE EL 2013
                                         LA UNIÓN DE PROFESIONALES ESPECIALISTAS EN LAS DISTINTAS AREAS FORMARON LA EMPRESA. CONTAMOS CON UN EQUIPO DE EXCELENCIA PARA ENTREGAR RESULTADOS DE CALIDAD A NUESTROS CLIENTES.
@@ -163,8 +163,8 @@
                         <div class="section-header">
                             <div class="wow bounceIn"data-animation-delay="7.8s">
 
-                                <h2 class="section-heading animated" >Nuestros servicios</h2>
-                                <h4>Neque porro quisquam est, qui dolorem ipsum quia dolor.</h4>
+                                <h2 class="section-heading animated">Nuestros servicios</h2>
+                                <h4></h4>
 
                             </div>
                         </div>
@@ -178,10 +178,10 @@
                                 <div class="wow rotateIn">
                                     <div class="service-col">
                                         <div class="service-icon">
-                                            <figure><i class="fa fa-cog"></i></figure>
+                                            <figure><i class="fa fa-crosshairs"></i></figure>
                                         </div>
-                                        <h2><a href="#">Easy to Customize</a></h2>
-                                        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p>
+                                        <h2><a href="#">Logística</a></h2>
+                                        <p></p>
                                     </div>
                                 </div>
                             </div>
@@ -195,10 +195,10 @@
                                 <div class="wow rotateIn">
                                     <div class="service-col">	
                                         <div class="service-icon">
-                                            <figure><i class="fa fa-desktop"></i></figure>
+                                            <figure><i class="fa fa-asterisk"></i></figure>
                                         </div>
-                                        <h2><a href="#">Responsive Layout</a></h2>
-                                        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p>
+                                        <h2><a href="#">Evaluación de Proyectos</a></h2>
+                                        <p></p>
                                     </div>
                                 </div>	
                             </div>
@@ -210,10 +210,49 @@
                             <div class="wow bounceIn">
                                 <div class="service-col">
                                     <div class="service-icon">
-                                        <figure><i class="fa fa-dropbox"></i></figure>
+                                        <figure><i class="fa fa-arrow-circle-o-up"></i></figure>
                                     </div>
-                                    <h2><a href="#">Ready to Use</a></h2>
-                                    <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p>
+                                    <h2><a href="#">Mejoramiento y Optimización de la Producción</a></h2>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col-lg-4" >
+                        <div class="align-center">
+                            <div class="wow bounceIn">
+                                <div class="service-col">
+                                    <div class="service-icon">
+                                        <figure><i class="fa fa-star"></i></figure>
+                                    </div>
+                                    <h2><a href="#">Diseño y Publicidad</a></h2>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col-lg-4" >
+                        <div class="align-center">
+                            <div class="wow bounceIn">
+                                <div class="service-col">
+                                    <div class="service-icon">
+                                        <figure><i class="fa fa-briefcase"></i></figure>
+                                    </div>
+                                    <h2><a href="#">Campañas Publicitarias</a></h2>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col-lg-4" >
+                        <div class="align-center">
+                            <div class="wow bounceIn">
+                                <div class="service-col">
+                                    <div class="service-icon">
+                                        <figure><i class="fa fa-gears"></i></figure>
+                                    </div>
+                                    <h2><a href="#">Evaluación y Desarrollo de Proyectos Informáticos y Tecnológicos</a></h2>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -251,7 +290,7 @@
                             <div class="wow bounceIn">
 
                                 <h2 class="section-heading animated" data-animation="bounceInUp">Nuestros Clientes</h2>
-                                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.</p>
+                                <p></p>
 
                             </div>
                         </div>
