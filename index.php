@@ -36,7 +36,7 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="fa fa-bars color-white"></span>
                         </button>
-                        <h1><a class="navbar-brand" href="index.php" data-0="line-height:90px;" data-300="line-height:50px;">TUMU 
+                        <h1><a class="navbar-brand" href="index.php" data-0="line-height:90px;" data-300="line-height:50px;">TUMU  
                             </a></h1>
                     </div>
                     <div class="navbar-collapse collapse">
@@ -64,7 +64,7 @@
                         <ul>
                             <li>
                                 <div class="slide-body" data-group="slide">
-                                    <img src="img/1.jpg" alt="">                                  
+                                    <img src="img/1.jpg" alt="">                                   
                                 </div>
                             </li>
                         </ul>
@@ -91,46 +91,40 @@
 
                         <div class="row-slider">
                             <div class="col-lg-6 mar-bot30">
-                                <div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
+                                <div class="responsive-slider" data-autoplay="true">
                                     <div class="slides" data-group="slides">
                                         <ul>
-
                                             <div class="slide-body" data-group="slide">
-                                                <li><img alt="" class="img-responsive" src="img/9.jpg" width="100%" height="350"/></li>
-                                                <li><img alt="" class="img-responsive" src="img/10.jpg" width="100%" height="350"/></li>
-                                                <li><img alt="" class="img-responsive" src="img/11.jpg" width="100%" height="350"/></li>
-
+                                                <li><img alt="" class="img-responsive" src="img/" width="100%" height="350"/></li>                                               
                                             </div>
                                         </ul>
-                                        <a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
-                                        <a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
-
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-lg-6 ">
                                 <div class="company mar-left10">
-                                    <h4>Our Company has created 1928 morbi leo risus, porta ac consectetur ac, <span>vestibulum </span> at eros.</h4>
-                                    <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac cursus etiam porta sem malesuada magna mollis euismod. commodo, Faccibus mollis interdum. Morbi leo risus, porta ac, vestibulum at eros.
-                                        Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac.</p>
+                                    <h4>TUMU NACE EL 2013
+                                        LA UNIÓN DE PROFESIONALES ESPECIALISTAS EN LAS DISTINTAS AREAS FORMARON LA EMPRESA. CONTAMOS CON UN EQUIPO DE EXCELENCIA PARA ENTREGAR RESULTADOS DE CALIDAD A NUESTROS CLIENTES.
+                                        <span>TUMU Ltda </span> </h4>
+                                    <p>Es una empresa que brinda asesorías en diferentes áreas, esto debido a la gama de profesionales 
+                                        que la componen con amplia experiencia en diferentes temas, tales como:</p>
                                 </div>
                                 <div class="list-style">
                                     <div class="row">
                                         <div class="col-lg-6 col-sm-6 col-xs-12">
                                             <ul>
-                                                <li>Sollicitudin Vestibulum</li>
-                                                <li>Fermentum Pellentesque</li>
-                                                <li>Sollicitudin Vestibulum</li>
-                                                <li>Nullam id dolor id nibh</li>
-                                            </ul>
+                                                <li>Logística</li>
+                                                <li>Evaluación de Proyectos</li>
+                                                <li>Mejoramiento y Optimización de la Producción</li>
+
+
                                         </div>
                                         <div class="col-lg-6 col-sm-6 col-xs-12">
                                             <ul>
-                                                <li>Sollicitudin Vestibulum</li>
-                                                <li>Fermentum Pellentesque</li>
-                                                <li>Sollicitudin Vestibulum</li>
-                                                <li>Nullam id dolor id nibh</li>
+                                                <li>Diseño y Publicidad</li>
+                                                <li>Campañas Publicitarias</li>
+                                                <li>Evaluación y Desarrollo de Proyectos Informáticos y Tecnológicos</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -269,7 +263,7 @@
                         <div class="wow bounceIn" data-animation-delay="4.8s">
                             <div class="team-member">
                                 <div class="profile-picture">
-                                    <figure><img src="img/clientes/kastora.png" alt=""></figure>
+                                    <figure><img src="img/clientes/Kasto.png" alt=""></figure>
                                     <div class="profile-overlay"></div>
                                     <div class="profile-social">
                                         <div class="icons-wrapper">
@@ -286,7 +280,7 @@
                                     <span>Botique</span>
                                 </div>
                                 <div class="team-bio">
-                                    <p>Ropa exclusiva consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci accusantium minus asperiores.</p>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -296,7 +290,7 @@
                         <div class="wow bounceIn">
                             <div class="team-member">
                                 <div class="profile-picture">
-                                    <figure><img src="img/clientes/lab.png" alt=""></figure>
+                                    <figure><img src="img/clientes/laboratorio.png" alt=""></figure>
                                     <div class="profile-overlay"></div>
                                     <div class="profile-social">
                                         <div class="icons-wrapper">
@@ -322,7 +316,7 @@
                         <div class="wow bounceIn">
                             <div class="team-member">
                                 <div class="profile-picture">
-                                    <figure><img src="img/clientes/marie.jpg" alt=""></figure>
+                                    <figure><img src="img/clientes/marieRose.png" alt=""></figure>
                                     <div class="profile-overlay"></div>
                                     <div class="profile-social">
                                         <div class="icons-wrapper">
@@ -339,7 +333,7 @@
                                     <span>Salon de belleza</span>
                                 </div>
                                 <div class="team-bio">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci accusantium minus asperiores.</p>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -350,7 +344,7 @@
             </div>
         </section>
         <!-- /team -->
- <!-- spacer section:testimonial -->
+        <!-- spacer section:testimonial -->
         <section id="testimonials-2" class="section" data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row">				
@@ -381,141 +375,100 @@
                     <nav id="filter" class="col-md-12 text-center">
                         <ul>
                             <li><a href="#" class="current btn-theme btn-small" data-filter="*">Todos</a></li>
-                            <li><a href="#"  class="btn-theme btn-small" data-filter=".webdesign" >Web Design</a></li>
-                            <li><a href="#"  class="btn-theme btn-small" data-filter=".photography">Photography</a></li>
-                            <li ><a href="#" class="btn-theme btn-small" data-filter=".print">Print</a></li>
+                            <li><a href="#"  class="btn-theme btn-small" data-filter=".Publicidad" >Publicidad</a></li>
+                            <li><a href="#"  class="btn-theme btn-small" data-filter=".Folleteria">Folleteria</a></li>
+                          
                         </ul>
                     </nav>
                     <div class="col-md-12">
                         <div class="row">
                             <div class="portfolio-items isotopeWrapper clearfix" id="3">
 
-                                <article class="col-md-4 isotopeItem webdesign">
+                                <article class="col-md-4 isotopeItem Publicidad">
                                     <div class="portfolio-item">
                                         <div class="wow rotateInUpLeft" data-animation-delay="4.8s">
-                                            <img src="img/portfolio/1.jpg" alt="welcome" />
+                                            <img src="img/trabajos/lipton.jpg" alt="welcome" />
                                         </div>
                                         <div class="portfolio-desc align-center">
                                             <div class="folio-info">
-                                                <h5><a href="#">Project name 1</a></h5>
-                                                <a href="img/portfolio/1.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
+                                                <h5><a href="#">Proyecto Lipton</a></h5>
+                                                <a href="img/trabajos/lipton.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
                                             </div>										   
                                         </div>
                                     </div>
                                 </article>
 
-                                <article class="col-md-4 isotopeItem photography">
+                                <article class="col-md-4 isotopeItem Folleteria">
                                     <div class="portfolio-item">
                                         <div class="wow bounceIn">
-                                            <img src="img/portfolio/2.jpg" alt="" />
+                                            <img src="img/trabajos/volante.jpg" alt="" />
                                         </div>
                                         <div class="portfolio-desc align-center">
                                             <div class="folio-info">
-                                                <h5><a href="#">Project name 2</a></h5>
-                                                <a href="img/portfolio/2.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
+                                                <h5><a href="#">Proyecto XS6</a></h5>
+                                                <a href="img/trabajos/volante.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
                                             </div>										   
                                         </div>
                                     </div>
                                 </article>
 
 
-                                <article class="col-md-4 isotopeItem photography">
+                                <article class="col-md-4 isotopeItem Publicidad">
                                     <div class="portfolio-item">
                                         <div class="wow rotateInDownRight">
-                                            <img src="img/portfolio/3.jpg" alt="" />
+                                            <img src="img/trabajos/kastora.jpg" alt="" />
                                         </div>	
                                         <div class="portfolio-desc align-center">
                                             <div class="folio-info">
-                                                <h5><a href="#">Project name 3</a></h5>
-                                                <a href="img/portfolio/3.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
+                                                <h5><a href="#">Proyecto La Kastora</a></h5>
+                                                <a href="img/trabajos/kastora.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
                                             </div>										   
                                         </div>
                                     </div>
                                 </article>
 
-                                <article class="col-md-4 isotopeItem print">
+                                <article class="col-md-4 isotopeItem Folleteria">
                                     <div class="portfolio-item">
                                         <div class="wow rotateInUpLeft">
-                                            <img src="img/portfolio/4.jpg" alt="" />
+                                            <img src="img/trabajos/muestra.jpg" alt="" />
                                         </div>	
                                         <div class="portfolio-desc align-center">
                                             <div class="folio-info">
-                                                <h5><a href="#">Project name 4</a></h5>
-                                                <a href="img/portfolio/4.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
+                                                <h5><a href="#">Proyecto Laboratorio MintLab </a></h5>
+                                                <a href="img/trabajos/muestra.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
                                             </div>										   
                                         </div>
                                     </div>
                                 </article>
-
-                                <article class="col-md-4 isotopeItem photography">
-                                    <div class="portfolio-item">
-                                        <div class="wow bounceIn">
-                                            <img src="img/portfolio/5.jpg" alt="" />
-                                        </div>
-                                        <div class="portfolio-desc align-center">
-                                            <div class="folio-info">
-                                                <h5><a href="#">Project name 5</a></h5>
-                                                <a href="img/portfolio/5.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
-                                            </div>										   
-                                        </div>
-                                    </div>
-                                </article>
-
-                                <article class="col-md-4 isotopeItem webdesign">
-                                    <div class="portfolio-item">
-                                        <div class="wow rotateInDownRight">
-                                            <img src="img/portfolio/6.jpg" alt="" />
-                                        </div>		
-                                        <div class="portfolio-desc align-center">
-                                            <div class="folio-info">
-                                                <h5><a href="#">Project name 6</a></h5>
-                                                <a href="img/portfolio/6.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
-                                            </div>										   
-                                        </div>
-                                    </div>
-                                </article>
-
-                                <article class="col-md-4 isotopeItem print">
+                                <article class="col-md-4 isotopeItem Publicidad">
                                     <div class="portfolio-item">
                                         <div class="wow rotateInUpLeft">
-                                            <img src="img/portfolio/7.jpg" alt="" />
-                                        </div>
-                                        <div class="portfolio-desc align-center">
-                                            <div class="folio-info">
-                                                <h5><a href="#">Project name 7</a></h5>
-                                                <a href="img/portfolio/7.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
-                                            </div>										   
-                                        </div>
-                                    </div>
-                                </article>
-
-                                <article class="col-md-4 isotopeItem photography">
-                                    <div class="portfolio-item">
-                                        <div class="wow bounceIn">
-                                            <img src="img/portfolio/8.jpg" alt="" />
+                                            <img src="img/trabajos/quaker.jpg" alt="" />
                                         </div>	
                                         <div class="portfolio-desc align-center">
                                             <div class="folio-info">
-                                                <h5><a href="#">Project name 8</a></h5>
-                                                <a href="img/portfolio/8.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
+                                                <h5><a href="#">Proyecto Quaker</a></h5>
+                                                <a href="img/trabajos/quaker.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
                                             </div>										   
                                         </div>
                                     </div>
                                 </article>
 
-                                <article class="col-md-4 isotopeItem print">
+                                <article class="col-md-4 isotopeItem Publicidad">
                                     <div class="portfolio-item">
-                                        <div class="wow rotateInDownRight">
-                                            <img src="img/portfolio/9.jpg" alt="" />
+                                        <div class="wow bounceIn">
+                                            <img src="img/trabajos/marierose rojo.jpg" alt="" />
                                         </div>
                                         <div class="portfolio-desc align-center">
                                             <div class="folio-info">
-                                                <h5><a href="#">Project name 9</a></h5>
-                                                <a href="img/portfolio/9.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
+                                                <h5><a href="#">Proyecto Marie Rose</a></h5>
+                                                <a href="img/trabajos/marierose rojo.jpg" class="fancybox"><i class="fa fa-external-link fa-2x"></i></a>
                                             </div>										   
                                         </div>
                                     </div>
                                 </article>
+
+                                
                             </div>
 
                         </div>
@@ -528,7 +481,7 @@
         </section>
         <section id="parallax2" class="section parallax" data-stellar-background-ratio="0.5">	
             <div class="align-center pad-top40 pad-bot30">
-               
+
             </div>
         </section>
 
@@ -583,7 +536,7 @@
 
             </div>
         </section>
- 
+
         <section id="footer" class="section footer">
             <div class="container">
                 <div class="row animated opacity mar-bot0" data-andown="fadeIn" data-animation="animation">
@@ -624,13 +577,13 @@
         <script src="js/validate.js"></script>
         <script src="js/grid.js"></script>
         <script src="js/main.js"></script>
-       
+
         <script src="js/wow.min.js"></script>
         <script>
-           wow = new WOW(
-                   {
-                   })
-                   .init();
+            wow = new WOW(
+                    {
+                    })
+                    .init();
         </script>
     </body>
 </html>
